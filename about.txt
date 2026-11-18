@@ -6,3 +6,5 @@ Section: BSIT 2A
 
 This is my GitHub Desktop practice project.
 I am learning how to use Git and GitHub.
+
+My Goal Is To Learn Web Development
