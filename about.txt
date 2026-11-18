@@ -1,0 +1,8 @@
+
+Name: Rob Isaac A. Umbac
+Student ID: 2023-24310042
+Course: BSIT
+Section: BSIT 2A
+
+This is my GitHub Desktop practice project.
+I am learning how to use Git and GitHub.
